@@ -1,5 +1,5 @@
-### Boas vindas ao meu perfil 💙💙
-Meu nome é Kaue Sousa
+### Boas vindas ao meu perfil 🐈‍⬛🐈‍⬛
+Meu nome é --Kaue Sousa--
 
 - Estou estudando na [Alura](https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -9,4 +9,4 @@ Meu nome é Kaue Sousa
 kauedesousa2008@email.com
 
 @kravkss-code
-a
+
